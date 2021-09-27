@@ -1,6 +1,6 @@
 # Furniture Website Using Html CSS
 
-BrowmWood is a furniture product cart website. Made by Tawhid Ahmed Komol using HTML, CSS & JavaScript. You can find me on the social media links below:
+BrownWood is a furniture product cart website. Made by Tawhid Ahmed Komol using HTML, CSS & JavaScript. You can find me on the social media links below:
 
 
 ##  My Profile Links
@@ -15,5 +15,5 @@ BrowmWood is a furniture product cart website. Made by Tawhid Ahmed Komol using 
 Live website demo: https://tawhidkomol.github.io/Furniture-website-css-javascript/index.html
 ## Project Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/TawhidKomol/Furniture-website-css-javascript/blob/main/images/screencapture-127-0-0-1-5500-index-html-2021-09-28-01_12_33.png?raw=true)
 
